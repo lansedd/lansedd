@@ -7,6 +7,8 @@
 ## 快速入口（2026最新地址 - 实时更新）
 
 - 🌐 **主站最新地址** → https://lansedh1.com/ （首选，秒开）
+  - 🌐 **主站最新地址二** → https://lansedh2.com/ （备选，秒开）
+   - 🌐 **主站最新地址三** → https://lansedh3.com/ （备选，秒开）
 - 🔗 **官方备用域** → https://lanse.gq （防失联首选）
 - 📱 **移动端优化版** → https://lanse.li （手机友好，PWA支持）
 
