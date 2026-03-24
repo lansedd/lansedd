@@ -78,7 +78,7 @@ A：绝对不会！无任何第三方统计/分析，所有偏好仅本地存储
 
 ## 联系 & 反馈通道
 
-- 📧 邮箱：admin@lanse.com （迷路可发邮件自动回复最新地址）  
+- 📧 邮箱：admin@lanse.im （迷路可发邮件自动回复最新地址）  
 - 💬 X（Twitter）：@lansedaohang （实时公告 + 互动）  
 - 🐛 问题/建议：直接@ @lansedaohang 或仓库issue
 
